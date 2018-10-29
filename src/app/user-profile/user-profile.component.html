@@ -8,6 +8,6 @@
 <input [(ngModel)]="User.quote" />
 
 <div>
-<button class ="button" (click)="show = !show">{{show ? 'Cacher mon age' : 'Montrer mon âge'}}</button>
+<button class ="button" (click)="toggleShow()">{{show ? 'Cacher mon âge' : 'Montrer mon âge'}}</button>
     <div *ngIf="show" class="agega">{{User.age}}</div>
 </div>  

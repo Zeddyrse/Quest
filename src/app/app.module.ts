@@ -6,12 +6,18 @@ import { AppComponent } from './app.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { UserProfileComponent } from './user-profile/user-profile.component';
 import { AppRoutingModule } from './app-routing.module';
+import { FightsDirective } from './fights.directive';
+import { FightsListComponent } from './fights-list/fights-list.component';
+import { SaiyensDirective } from './saiyens.directive';
 
 @NgModule({
   declarations: [
     AppComponent,
     SignUpComponent,
-    UserProfileComponent
+    UserProfileComponent,
+    FightsDirective,
+    FightsListComponent,
+    SaiyensDirective
   ],
   imports: [
     BrowserModule,
