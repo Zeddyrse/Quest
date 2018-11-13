@@ -26,8 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-REPOSITORY JAVA POO (PROGRAMATION ORIENTE OBJET)
+## PRECISIONS
+
+REPOSITORY ANGULAR (FRAMEWORK)
 
 REPOSITORY CREER POUR DES VALIDATIONS DE QUETES, PERMETTANT D'EVALUER NOTRE COMPRÉHENSION SUR LES DIFFERENTES CONNAISSANCES ACQUISES AU COUR DE LA FORMATION.
 
-ICI DES QUETES SUR JAVA.
+ICI DES QUETES SUR ANGULAR.
